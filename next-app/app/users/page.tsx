@@ -6,6 +6,8 @@ import NavBar from '../components/NavBar';
 interface User {
   id: number;
   name: string;
+  email: string;
+  phone: string;
 }
 
 const UsersPage = async () => {
