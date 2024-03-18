@@ -1,12 +1,13 @@
 import Image from 'next/image'
-import Link from 'next/link'
-import ProductCard from './components/ProductCard/ProductCard'
+import ProductCard from './components/ProductCard'
+import NavBar from './components/NavBar'
 
 export default function Home() {
   return (
     <main>
-      <h1>Hello World!</h1>
-      <Link href="/users">Users</Link>
+      <NavBar />
+      <br />
+      <br />
       <ProductCard />
     </main>
   )
