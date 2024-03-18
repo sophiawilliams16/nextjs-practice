@@ -1,3 +1,11 @@
+# nextjs-practice
+
+A simple UI built with Next.js, Tailwind, and DaisyUI.
+
+[Programming with Mosh - Nextjs 13 Tutorial ](https://www.youtube.com/watch?v=ZVnjOPwW4ZA)
+
+[Stock Photos from Pexels.com](https://www.pexels.com/search/product/)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
